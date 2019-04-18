@@ -21,6 +21,9 @@ $ mvn clean install
 
 ## Usage
 
-### Top-N repos by number of stars
-
     $ java -jar target/shiprules-0.0.1-SNAPSHOT.jar
+    
+    
+## Improvements in next version
+Impelement as Microservie, Wrap this around an REST API and provide and end point 
+Add more Test-cases 
