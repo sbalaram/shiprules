@@ -25,5 +25,5 @@ $ mvn clean install
     
     
 ## Improvements in next version
-Impelement as Microservie, Wrap this around an REST API and provide and end point 
+Implement as Microservice provide and REST API endpoint 
 Add more Test-cases 
